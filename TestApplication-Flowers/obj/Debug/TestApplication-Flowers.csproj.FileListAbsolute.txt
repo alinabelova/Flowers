@@ -1,0 +1,6 @@
+D:\Projects\TestApplication-Flowers\TestApplication-Flowers\bin\Debug\TestApplication-Flowers.exe.config
+D:\Projects\TestApplication-Flowers\TestApplication-Flowers\bin\Debug\TestApplication-Flowers.exe
+D:\Projects\TestApplication-Flowers\TestApplication-Flowers\bin\Debug\TestApplication-Flowers.pdb
+D:\Projects\TestApplication-Flowers\TestApplication-Flowers\obj\Debug\TestApplication-Flowers.csprojResolveAssemblyReference.cache
+D:\Projects\TestApplication-Flowers\TestApplication-Flowers\obj\Debug\TestApplication-Flowers.exe
+D:\Projects\TestApplication-Flowers\TestApplication-Flowers\obj\Debug\TestApplication-Flowers.pdb
